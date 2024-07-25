@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.4">
+  <diagram id="LqJT-GbOmbVGnU5KCRBm" name="Page-1">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aYypFzukrWizeFrsRwdt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYypFzukrWizeFrsRwdt-1" target="aYypFzukrWizeFrsRwdt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-1" value="DOWN button pressed" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYypFzukrWizeFrsRwdt-2" target="aYypFzukrWizeFrsRwdt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-2" value="Eddy currents initiated at high." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYypFzukrWizeFrsRwdt-6" target="aYypFzukrWizeFrsRwdt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-6" value="Climber begins to fall, very slowly." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYypFzukrWizeFrsRwdt-8" target="aYypFzukrWizeFrsRwdt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-8" value="Climber mass and acceleration are calculated via the microcontroller using the load cell and accelerometer." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="170" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYypFzukrWizeFrsRwdt-10" target="aYypFzukrWizeFrsRwdt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-10" value="Climber descent speed is adjusted with the PID control system." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYypFzukrWizeFrsRwdt-12" target="aYypFzukrWizeFrsRwdt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-12" value="Climber reaches the ground softly." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYypFzukrWizeFrsRwdt-14" target="aYypFzukrWizeFrsRwdt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-14" value="Climber unties harness knot, leaving the rope on the wall." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYypFzukrWizeFrsRwdt-16" target="aYypFzukrWizeFrsRwdt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-16" value="END button pressed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYypFzukrWizeFrsRwdt-18" target="aYypFzukrWizeFrsRwdt-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-18" value="END button pressed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYypFzukrWizeFrsRwdt-22" value="Winch motor collects rope, cleaning the route to be ready for the next climb." style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="299" y="480" width="171" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
