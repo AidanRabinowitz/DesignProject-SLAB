@@ -250,6 +250,284 @@
         <mxCell id="ut7mwP5UoMjiL9nKzPlM-95" value="Winch motor collects rope, cleaning the route to be ready for the next climb." style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="619" y="1280" width="171" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-6" target="zGrNQSZejgLOelifn-Yf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-6" target="zGrNQSZejgLOelifn-Yf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-6" target="zGrNQSZejgLOelifn-Yf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-6" target="zGrNQSZejgLOelifn-Yf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-6" target="zGrNQSZejgLOelifn-Yf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-6" value="Button press on remote." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-8" target="zGrNQSZejgLOelifn-Yf-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-8" value="END" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1920" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-10" target="zGrNQSZejgLOelifn-Yf-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-10" value="DOWN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1820" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-12" target="zGrNQSZejgLOelifn-Yf-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-12" value="START" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1520" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-14" target="zGrNQSZejgLOelifn-Yf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-14" value="UP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1620" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-16" target="zGrNQSZejgLOelifn-Yf-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-16" value="PROJECT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1720" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-18" target="zGrNQSZejgLOelifn-Yf-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-18" value="DC Motor pulls at HIGH mode for 3m then NORMAL mode above 3m, for less slack." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-21" value="Climber climbs and pulls for slack, with negligible resistance from the motor." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="zGrNQSZejgLOelifn-Yf-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-24" target="zGrNQSZejgLOelifn-Yf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-24" value="SLAB is turned on&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1430" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-27" target="zGrNQSZejgLOelifn-Yf-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-27" target="zGrNQSZejgLOelifn-Yf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-27" value="Is SLAB on?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-28" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-29" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-32" target="zGrNQSZejgLOelifn-Yf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-32" target="zGrNQSZejgLOelifn-Yf-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-32" value="Is there tension from the&lt;div&gt;&amp;nbsp;load cell and rope movement&lt;/div&gt;&lt;div&gt;&amp;nbsp;from the motor spinning?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1465" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-33" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-35" target="zGrNQSZejgLOelifn-Yf-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="1540" />
+              <mxPoint x="1200" y="1620" />
+              <mxPoint x="770" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-35" value="Too much slack--DC Motor pulls at HIGH mode until tension is felt." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-36" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="1510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-38" target="zGrNQSZejgLOelifn-Yf-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1750" />
+              <mxPoint x="570" y="1700" />
+              <mxPoint x="250" y="1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-38" value="Double-shoe brake engages until climber presses another button." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-40" target="zGrNQSZejgLOelifn-Yf-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-40" value="Eddy current set to high." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1820" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-43" target="zGrNQSZejgLOelifn-Yf-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-43" target="zGrNQSZejgLOelifn-Yf-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-43" value="Is the rope&amp;nbsp;&lt;div&gt;moving or is any force detected?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="1895" width="125" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-44" value="Device powers down." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-45" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-46" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-49" target="zGrNQSZejgLOelifn-Yf-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-49" target="zGrNQSZejgLOelifn-Yf-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-49" value="Electrical failure?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-51" target="zGrNQSZejgLOelifn-Yf-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-51" value="Load cell and accelerometer data is used to regulate the climber velocity to settle at 1m/s down, with PID control." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1800" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-52" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-54" target="zGrNQSZejgLOelifn-Yf-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="1730" />
+              <mxPoint x="1010" y="2040" />
+              <mxPoint x="160" y="2040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-54" value="Centrifugal brake is engaged, stopping the climber after 0.2s. d=0.5*g*t^2 means a 0.196m fall, taking&amp;nbsp;&lt;div&gt;the integral of the velocity.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1670" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-55" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-58" target="zGrNQSZejgLOelifn-Yf-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="1550" />
+              <mxPoint x="710" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-58" target="zGrNQSZejgLOelifn-Yf-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-58" value="Fall?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1510" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-59" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-60" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-61" value="Climber is grounded." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="1780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="2000" />
+              <mxPoint x="177" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-63" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="985" y="80" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-65" target="zGrNQSZejgLOelifn-Yf-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-65" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="850" y="155" width="290" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-66" value="UP&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="915" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-67" value="PROJECT&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="965" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-68" value="&lt;div&gt;DOWN&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1015" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="935" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="985" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-72" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;UP&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-73" value="&lt;div&gt;PROJECT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-74" value="&lt;div&gt;DOWN&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="285" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-75" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="340" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-76" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="340" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-78" target="zGrNQSZejgLOelifn-Yf-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-78" value="Bluetooth signal sent to microcontroller." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zGrNQSZejgLOelifn-Yf-80" target="zGrNQSZejgLOelifn-Yf-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-80" value="Button pressed." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zGrNQSZejgLOelifn-Yf-81" value="Microcontroller handles MODE logic and information input and output from other systems." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
