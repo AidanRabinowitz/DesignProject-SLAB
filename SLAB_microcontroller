@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="BHk3Rk8SxXhhY-KPAZYR">
-    <mxGraphModel dx="1400" dy="-426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="-612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,8 +195,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nIm0YfavgZF4-3dLCrTg-55" value="Centrifugal brake is engaged, stopping the climber after 0.2s. d=0.5*g*t^2 means a 0.196m fall, taking&amp;nbsp;&lt;div&gt;the integral of the velocity.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1670" width="120" height="110" as="geometry" />
+        <mxCell id="nIm0YfavgZF4-3dLCrTg-55" value="Centrifugal brake is engaged, stopping the climber after 0.2s. DC motor switched off. d=0.5*g*t^2 means a 0.196m fall, taking&amp;nbsp;&lt;div&gt;the integral of the velocity.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1670" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nIm0YfavgZF4-3dLCrTg-56" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="1760" width="60" height="30" as="geometry" />
@@ -224,15 +224,12 @@
         <mxCell id="nIm0YfavgZF4-3dLCrTg-62" value="Climber is grounded." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="1830" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nIm0YfavgZF4-3dLCrTg-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.551;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nIm0YfavgZF4-3dLCrTg-62">
+        <mxCell id="nIm0YfavgZF4-3dLCrTg-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.347;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nIm0YfavgZF4-3dLCrTg-62" target="nIm0YfavgZF4-3dLCrTg-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="182" y="1785" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="915" y="1870" />
-              <mxPoint x="915" y="2020" />
-              <mxPoint x="182" y="2020" />
+              <mxPoint x="910" y="2010" />
+              <mxPoint x="172" y="2010" />
             </Array>
-            <mxPoint x="915" y="1875" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
