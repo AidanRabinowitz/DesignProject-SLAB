@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nIm0YfavgZF4-3dLCrTg-41" value="Eddy current set to high." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1760" width="80" height="60" as="geometry" />
+          <mxGeometry x="400" y="1750" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nIm0YfavgZF4-3dLCrTg-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nIm0YfavgZF4-3dLCrTg-44" target="nIm0YfavgZF4-3dLCrTg-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,16 +123,16 @@
         <mxCell id="nIm0YfavgZF4-3dLCrTg-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nIm0YfavgZF4-3dLCrTg-52" target="nIm0YfavgZF4-3dLCrTg-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nIm0YfavgZF4-3dLCrTg-52" value="Load cell and accelerometer data is used to regulate the climber velocity to settle at 1m/s down, with PID control." style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nIm0YfavgZF4-3dLCrTg-52" value="PID controls current. Climber&#39;s descent is regulated to -1m/s." style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="1740" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nIm0YfavgZF4-3dLCrTg-53" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="1760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5uxBhigoa5cO22aTHygU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nIm0YfavgZF4-3dLCrTg-55" target="nIm0YfavgZF4-3dLCrTg-38">
+        <mxCell id="5uxBhigoa5cO22aTHygU-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nIm0YfavgZF4-3dLCrTg-55" target="5uxBhigoa5cO22aTHygU-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nIm0YfavgZF4-3dLCrTg-55" value="Centrifugal brake is engaged, stopping the climber after 0.2s. DC motor switched off.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nIm0YfavgZF4-3dLCrTg-55" value="Centrifugal brake is engaged, slowing the climber. DC motor switched off.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="1610" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nIm0YfavgZF4-3dLCrTg-56" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -158,7 +158,7 @@
         <mxCell id="nIm0YfavgZF4-3dLCrTg-61" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="1460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nIm0YfavgZF4-3dLCrTg-62" value="Climber is grounded." style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nIm0YfavgZF4-3dLCrTg-62" value="Climber is grounded." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="800" y="1770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5uxBhigoa5cO22aTHygU-21" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -224,6 +224,21 @@
         </mxCell>
         <mxCell id="5uxBhigoa5cO22aTHygU-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5uxBhigoa5cO22aTHygU-31" target="nIm0YfavgZF4-3dLCrTg-38">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxBhigoa5cO22aTHygU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5uxBhigoa5cO22aTHygU-44" target="nIm0YfavgZF4-3dLCrTg-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxBhigoa5cO22aTHygU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5uxBhigoa5cO22aTHygU-44" target="nIm0YfavgZF4-3dLCrTg-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxBhigoa5cO22aTHygU-44" value="Electrical failure?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1625" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxBhigoa5cO22aTHygU-47" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uxBhigoa5cO22aTHygU-50" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1770" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
