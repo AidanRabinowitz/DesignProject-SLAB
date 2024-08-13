@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="BHk3Rk8SxXhhY-KPAZYR">
-    <mxGraphModel dx="1750" dy="-241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="-583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,11 +55,11 @@
         <mxCell id="nIm0YfavgZF4-3dLCrTg-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nIm0YfavgZF4-3dLCrTg-32" target="nIm0YfavgZF4-3dLCrTg-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nIm0YfavgZF4-3dLCrTg-32" value="Is there tension from the&lt;div&gt;&amp;nbsp;load cell and rope movement&lt;/div&gt;&lt;div&gt;&amp;nbsp;from the motor spinning?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nIm0YfavgZF4-3dLCrTg-32" value="Is the rope triggering the obstacle detector,&amp;nbsp;&lt;div&gt;lying low to the ground?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="1405" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="nIm0YfavgZF4-3dLCrTg-33" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="870" y="1375" width="60" height="30" as="geometry" />
+        <mxCell id="nIm0YfavgZF4-3dLCrTg-33" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1385" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIm0YfavgZF4-3dLCrTg-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nIm0YfavgZF4-3dLCrTg-35" target="nIm0YfavgZF4-3dLCrTg-21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -73,7 +73,7 @@
         <mxCell id="nIm0YfavgZF4-3dLCrTg-35" value="Too much slack--DC Motor pulls at HIGH mode until tension is felt." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nIm0YfavgZF4-3dLCrTg-36" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nIm0YfavgZF4-3dLCrTg-36" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="957" y="1450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nIm0YfavgZF4-3dLCrTg-38" value="Double-shoe brake engages until climber presses another button." style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -129,7 +129,10 @@
         <mxCell id="nIm0YfavgZF4-3dLCrTg-53" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="1760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nIm0YfavgZF4-3dLCrTg-55" value="Centrifugal brake is engaged, stopping the climber after 0.2s. DC motor switched off. d=0.5*g*t^2 means a 0.196m fall, taking&amp;nbsp;&lt;div&gt;the integral of the velocity.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5uxBhigoa5cO22aTHygU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nIm0YfavgZF4-3dLCrTg-55" target="nIm0YfavgZF4-3dLCrTg-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIm0YfavgZF4-3dLCrTg-55" value="Centrifugal brake is engaged, stopping the climber after 0.2s. DC motor switched off.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="1610" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nIm0YfavgZF4-3dLCrTg-56" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -203,14 +206,6 @@
         <mxCell id="5uxBhigoa5cO22aTHygU-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5uxBhigoa5cO22aTHygU-30" target="nIm0YfavgZF4-3dLCrTg-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uxBhigoa5cO22aTHygU-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5uxBhigoa5cO22aTHygU-31" target="nIm0YfavgZF4-3dLCrTg-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="1645" />
-              <mxPoint x="430" y="1700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5uxBhigoa5cO22aTHygU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5uxBhigoa5cO22aTHygU-32" target="nIm0YfavgZF4-3dLCrTg-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -226,6 +221,9 @@
               <mxPoint x="300" y="1490" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5uxBhigoa5cO22aTHygU-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5uxBhigoa5cO22aTHygU-31" target="nIm0YfavgZF4-3dLCrTg-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
