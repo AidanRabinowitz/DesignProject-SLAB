@@ -13,17 +13,17 @@
         <mxCell id="1esEc9C22PGesizVBieg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1esEc9C22PGesizVBieg-2" target="1esEc9C22PGesizVBieg-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1esEc9C22PGesizVBieg-2" value="Microcontroller" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="1esEc9C22PGesizVBieg-2" value="Microcontroller--Digital noise filtration" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1esEc9C22PGesizVBieg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1esEc9C22PGesizVBieg-4" target="1esEc9C22PGesizVBieg-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1esEc9C22PGesizVBieg-4" value="Logical Processing and PID" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="1esEc9C22PGesizVBieg-4" value="Microcontroller--Logical Processing and PID" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1esEc9C22PGesizVBieg-6" value="Output Actuation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="1esEc9C22PGesizVBieg-6" value="Output Actuation of DC Motor and Braking Systems." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1esEc9C22PGesizVBieg-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="1esEc9C22PGesizVBieg-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
